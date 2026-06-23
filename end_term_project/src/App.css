@@ -1,0 +1,22 @@
+.container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+input {
+  padding: 8px;
+  font-size: 16px;
+}
+
+button {
+  padding: 8px 15px;
+  margin-left: 10px;
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+h3 {
+  color: blue;
+}
